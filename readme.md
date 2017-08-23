@@ -1,3 +1,4 @@
 # Assignment solution
-Ons 23 Aug 2017 12:45:03 CEST
+Ons 23 Aug 2017 12:51:13 CEST
+The number of lines in the bash game: 
       19
